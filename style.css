@@ -1,0 +1,15 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:15px 30px;
+}
+#logo{
+    width: 157px;
+    height: 163px;
+}
+#header_txt{
+    font-family: 'Nova Mono', monospace; }
+.row-fluid,.col-3,.col{
+border: 3px solid black;
+}
